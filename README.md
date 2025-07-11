@@ -22,9 +22,9 @@ Esse projeto é uma aplicação web simples e interativa que permite aos usuári
 
 ## Técnicas e Tecnologias
 
-- Manipulação da DOM: aprendi a manipular a estrutura da página com JavaScript, criando, removendo e alterando elementos HTML;
-- Eventos JavaScript: utilizei o poder dos eventos JavaScript para criar uma interface interativa e responsiva;
-- Audio: utilizei desse recurso para poder alertar o usuário dos momentos de foco ou de pausa.
+- `Manipulação da DOM`: aprendi a manipular a estrutura da página com JavaScript, criando, removendo e alterando elementos HTML;
+- `Eventos JavaScript`: utilizei o poder dos eventos JavaScript para criar uma interface interativa e responsiva;
+- `Audio`: utilizei desse recurso para poder alertar o usuário dos momentos de foco ou de pausa.
 
 ## Como Abrir e Rodar o Projeto
 
